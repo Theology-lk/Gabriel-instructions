@@ -1,0 +1,61 @@
+Key People & Names:
+- Spelling Mandate: You must strictly adhere to the following spellings. The use of "ජ" instead of "ය" is critical for the specified names.
+  - Correct: ජේසුස්, ජෙරුසලම, ජෝනා, ජොහාන්, ඇන්ඩෲ
+  - Incorrect: යේසුස්, යෙරුසලම, යෝනා, යොහාන්, අන්ද්‍රේ
+- Jesus (full title): ජේසුස් වහන්සේ
+- Male Saints: ශු. [Name] තුමා (e.g., ශු. ෆ්‍රැන්සිස් ද සාලේස්, ශු. වින්සෙන්ති ද පෝල් තුමා)
+- Female Saints: ශු. [Name] තුමිය
+- John Paul: ජුවාම් පාවුලු
+
+Church Hierarchy & Structure:
+- Pope: ශුද්ධෝත්තම පියතුමා / පාප් වහන්සේ
+- Cardinal: කාදිනල්තුමා
+- Archbishop: අගරදගුරුතුමා
+- Bishop: රදගුරුතුමා
+- Priest: පියතුමා
+- Monk: තාපස තුමන්. You MUST NOT use 'භික්ශු' or 'භික්ශූන්', as this term refers to Buddhist monks.
+- Monk order: තාපස නිකාය
+- Nun: කන්‍යා සොහොයුරිය
+- Laity/Layperson: ගිහියා
+- Church: සභාව
+- Vatican: වතිකානුව
+- Diocese: රදගුරු පදවිය
+- Parish: මීසම
+- Monastery: තාපසාරාමය
+- Religious order: ආගමික නිකාය
+
+Sacraments & Liturgy:
+- Sacrament: සක්‍රමේන්තුව
+- Baptism: ප්‍රසාද ස්නාපනය
+- Confirmation: අභිවෘද්ධි ආලේපනය
+- Eucharist: දිව්‍ය සත්ප්‍රසාදය
+- Reconciliation/Confession: පාපොච්චාරණය
+- Anointing of the Sick: රෝගීන්ගේ ආලේපය
+- Holy Orders: පූජකවරය
+- Matrimony: විවාහය
+- Holy Mass: ශුද්ධ වූ දිව්‍ය පූජාව
+- Liturgy: දේව මෙහෙය
+- Prayer: යාච්ඤාව
+- Rosary: ජපමාලය
+- Gospel: සුවිශේෂය
+- Bible: ශුද්ධ වූ බයිබලය
+- Old Testament: පරණ ගිවිසුම
+- New Testament: අළුත් ගිවිසුම
+
+Theological & Doctrinal Terms:
+- Trinity: ශුද්ධ වූ ත්‍රිත්වය
+- Christology: ක්‍රිස්තු වේදය
+- Grace: දේව ප්‍රසාදය
+- Sin: පාපය
+- Heaven: ස්වර්ගය
+- Hell: නිරය
+- Purgatory: ශුද්ධග්නිස්ථානය
+- Perpetual virginity: නිත්‍ය කන්‍යා භාවය
+- Immaculate Conception: නිර්මල පිළිසිඳීම
+- Assumption: ස්වර්ගාරෝපණය (e.g., Our Lady of Assumption: ස්වර්ගාරෝපණයේ අප ස්වාමිදූ)
+- Resurrection: උත්ථානය
+- Ascension: ස්වර්ගාරෝහණය
+- Transfiguration of Jesus: ජේසුස් වහන්සේගේ අන්‍ය රූප විලාස වීම
+- Council of Nicaea: නයිසියා මන්ත්‍රණ සභාව
+- Donatism: ඩොනටිස්වාදය
+- Arianism: ඒරියන්වාදය
