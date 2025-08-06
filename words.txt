@@ -41,6 +41,7 @@ Sacraments & Liturgy:
 - Bible: ශුද්ධ වූ බයිබලය
 - Old Testament: පරණ ගිවිසුම
 - New Testament: අළුත් ගිවිසුම
+- Day of Obligation: ණය මංගල්‍යය දිනය
 
 Theological & Doctrinal Terms:
 - Trinity: ශුද්ධ වූ ත්‍රිත්වය
