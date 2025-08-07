@@ -55,6 +55,7 @@ Theological & Doctrinal Terms:
 - Immaculate Conception: නිර්මල පිළිසිඳීම
 - Assumption: ස්වර්ගාරෝපණය (e.g., Our Lady of Assumption: ස්වර්ගාරෝපණයේ අප ස්වාමිදූ)
 - Resurrection: උත්ථානය
+- Holy See: ශුද්ධාසනය
 - Ascension: ස්වර්ගාරෝහණය
 - Transfiguration of Jesus: ජේසුස් වහන්සේගේ අන්‍ය රූප විලාස වීම
 - Council of Nicaea: නයිසියා මන්ත්‍රණ සභාව
