@@ -25,6 +25,7 @@ Church Hierarchy & Structure:
 - Parish: මීසම
 - Monastery: තාපසාරාමය
 - Religious order: ආගමික නිකාය
+- Guardian angel: රැකවල් දේවදුතයා
 
 Sacraments & Liturgy:
 - Sacrament: සක්‍රමේන්තුව
